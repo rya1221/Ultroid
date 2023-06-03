@@ -3,3 +3,8 @@
 https://github.com/New-dev0/Telethon/archive/Branch.zip
 py-Ultroid==2021.10.11.1
 pytgcalls==3.0.0.dev19
+Flask==2.2.2
+
+gunicorn==20.1.0
+
+aiohttp==3.8.1
